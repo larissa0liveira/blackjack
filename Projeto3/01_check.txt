@@ -1,0 +1,10 @@
+cartas: 24
+creditos: 100
+jogador: 8S 2D
+casa: 6D 6H
+jogador: 8S 2D
+casa: 6D 6H QC
+Vitoria
+cartas: 19
+creditos: 105
+saldo final: 105

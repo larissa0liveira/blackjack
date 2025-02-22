@@ -1,0 +1,17 @@
+cartas: 26
+creditos: 100
+jogador: TS 4D
+casa: JS 5S
+jogador: TS 4D
+casa: JS 5S 7S
+Vitoria
+cartas: 21
+creditos: 200
+jogador: AC QC
+casa: QC QC
+jogador: AC QC
+casa: QC QC
+Vitoria
+cartas: 17
+creditos: 300
+saldo final: 300

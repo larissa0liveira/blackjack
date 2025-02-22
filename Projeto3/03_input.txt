@@ -1,0 +1,4 @@
+apostar 50
+hit
+apostar 50
+hit

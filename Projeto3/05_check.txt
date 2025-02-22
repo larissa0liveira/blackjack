@@ -1,0 +1,58 @@
+cartas: 312
+creditos: 100
+jogador: AS AS
+casa: AS AS
+jogador: AS AS AS
+casa: AS AS
+jogador: AS AS AS AS
+casa: AS AS
+jogador: AS AS AS AS 2S
+casa: AS AS
+jogador: AS AS AS AS 2S 2S
+casa: AS AS
+jogador: AS AS AS AS 2S 2S
+casa: AS AS 2S 2S 2S
+Empate
+cartas: 301
+creditos: 100
+jogador: 2S 3S
+casa: 3S 3S
+jogador: 2S 3S 3S
+casa: 3S 3S
+jogador: 2S 3S 3S 3S
+casa: 3S 3S
+jogador: 2S 3S 3S 3S 3S
+casa: 3S 3S
+jogador: 2S 3S 3S 3S 3S
+casa: 3S 3S 4S 4S 4S
+Derrota
+cartas: 291
+creditos: 90
+jogador: 4S 4S
+casa: 4S 5S
+jogador: 4S 4S 5S
+casa: 4S 5S
+jogador: 4S 4S 5S 5S
+casa: 4S 5S
+jogador: 4S 4S 5S 5S
+casa: 4S 5S 5S 5S
+Derrota
+cartas: 283
+creditos: 80
+jogador: 5S 6S
+casa: 6S 6S
+jogador: 5S 6S 6S
+casa: 6S 6S
+jogador: 5S 6S 6S
+casa: 6S 6S 6S
+Derrota
+cartas: 277
+creditos: 70
+jogador: 6S 7S
+casa: 7S 7S
+jogador: 6S 7S
+casa: 7S 7S 7S
+Derrota
+cartas: 272
+creditos: 60
+saldo final: 60

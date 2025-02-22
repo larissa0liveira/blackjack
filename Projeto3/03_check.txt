@@ -1,0 +1,17 @@
+cartas: 26
+creditos: 100
+jogador: TS 7D
+casa: 5S AS
+jogador: TS 7D TC
+casa: 5S AS
+Derrota
+cartas: 21
+creditos: 50
+jogador: 2H QC
+casa: QC QC
+jogador: 2H QC QC
+casa: QC QC
+Derrota
+cartas: 16
+creditos: 0
+saldo final: 0

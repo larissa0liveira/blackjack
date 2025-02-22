@@ -1,0 +1,10 @@
+cartas: 26
+creditos: 100
+jogador: TS AD
+casa: 2S 5S
+jogador: TS AD
+casa: 2S 5S 4C KC
+Empate
+cartas: 20
+creditos: 100
+saldo final: 100

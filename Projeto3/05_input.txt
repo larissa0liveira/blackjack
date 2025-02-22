@@ -1,0 +1,21 @@
+apostar 10
+hit
+hit
+hit
+hit
+stand
+apostar 10
+hit
+hit
+hit
+stand
+apostar 10
+hit
+hit
+stand
+apostar 10
+hit
+stand
+apostar 10
+stand
+sair

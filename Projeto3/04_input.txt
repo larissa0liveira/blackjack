@@ -1,0 +1,3 @@
+apostar 100
+stand
+apostar 100
