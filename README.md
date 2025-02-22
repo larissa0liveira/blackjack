@@ -12,8 +12,8 @@ This repository contains the implementation of three projects developed for the 
 
 ---
 
-# Compiling and running Project 3:
-(Make sure you have **GHC and Stack** installed.)
-cd Project3
-stack ghc Main.hs
-./Main
+Compiling and running Project 3:
+(Make sure you have **GHC and Stack** installed.)  
+cd Project3  
+stack ghc Main.hs  
+./Main  
